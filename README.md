@@ -6,4 +6,7 @@ This repository contains codes to detect and decode barcodes in images and video
 <br>Code for detecting and decoding barcodes in images.
 
 2. Barcode Scanner for Videos.ipynb
-<br>Code for detecting and decoding barcodes in videos.
+<br>Code for detecting and decoding barcodes in videos. Also has a commented line of code to save a video as a set of frames. FileUploadStream 
+
+3. Frames to Video.ipynb
+<br>Code for assembling a set of frames into a video.
