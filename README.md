@@ -6,7 +6,7 @@ This repository contains codes to detect and decode barcodes in images and video
 <br>Code for detecting and decoding barcodes in images.
 
 2. Barcode Scanner for Videos.ipynb
-<br>Code for detecting and decoding barcodes in videos. Also has a commented line of code to save a video as a set of frames. There are two methods for processing a video. My code uses FileVideoStream. The other one is VideoStream. FileVideoStream processes the video slower, but generally has a better performance than VideoStream, which processes the video faster with a slightly lower performance. It is advised to use FileVideoStream for videos having a shorter duration or in cases where accuracy is very important. For longer videos or experimentation, use VideoStream instead 
+<br>Code for detecting and decoding barcodes in videos. Also has a commented line of code to save a video as a set of frames. There are two methods for processing a video. My code uses FileVideoStream. The other one is VideoStream. FileVideoStream processes the video slower, but generally has a better performance than VideoStream, which processes the video faster with a slightly lower performance. It is advised to use FileVideoStream for videos having a shorter duration or in cases where accuracy is very important. For longer videos or experimentation, use VideoStream instead. 
 
 3. Frames to Video.ipynb
 <br>Code for assembling a set of frames into a video.
