@@ -11,4 +11,4 @@ This repository contains codes to detect and decode barcodes in images and video
 3. Frames to Video.ipynb
 <br>Code for assembling a set of frames into a video.
 
-Note: GitHub may not be able to render a Jupyter Notebook in one go, so kindly reload it a few times to view the Notebook, if it does not load the first time around.
+Note: GitHub may not be able to render a Jupyter Notebook in one go, so kindly reload it a few times to view the Notebook, if it does not load the first time around. Alternatively, you can copy paste the GitHub URL to the notebook at https://nbviewer.jupyter.org/ to render it.
